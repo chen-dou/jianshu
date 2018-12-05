@@ -1,0 +1,30 @@
+#login{
+    position:fixed;
+    top:58px;
+    bottom:0;
+    left:0;
+    right:0;
+    background:#ccc;
+}
+#login form{
+    position:absolute;
+    background:#fff;
+    top:100px;
+    padding:40px 20px;
+    left:50%;
+    transform:translateX(-50%)
+}
+#login form input{
+    width:240px;
+    height:28px;
+    margin-bottom:20px;
+    border:1px solid #ccc;
+}
+#login form .btn{
+    text-align:center;
+    cursor:pointer;
+    background:#3194d0;
+    color:#fff;
+    padding:9px 18px;
+    border-radius:20px;
+}

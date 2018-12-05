@@ -1,0 +1,18 @@
+#detail{
+    margin-top:104px;
+    width:620px;
+    margin:104px auto 0;
+}
+#detail h2{
+    font-size:34px;
+    font-weight:bold;
+    margin-bottom:20px;
+}
+#detail .content{
+    color:#2f2f2f;
+    font-size:16px;
+    line-height:26px;
+}
+#detail .content p{
+    margin:0 0 25px;
+}
